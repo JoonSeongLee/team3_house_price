@@ -14,8 +14,8 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 ### Evaluation
 
 Root-Mean-Squared-Error (RMSE)
+- [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
-$\text{RMSE} = \sqrt{\frac{1}{N} \sum^{N}(y_{i} - \hat{y}_{i})^2}$
 
 예측된 값과 실제 판매 가격의 잔차제곱합
 
